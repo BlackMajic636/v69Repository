@@ -1,0 +1,70 @@
+# DCS-OMM-Mods-and-Liveries
+
+This repository contains custom **DCS World** Mods and Liveries configured for use with **OMM (Open Mod Manager)** or **OvGME**. It is organized to support easy activation/deactivation without conflicting with core game files. Ideal for squadrons, streamers, or solo pilots who want to quickly manage their mods and liveries.
+
+---
+
+## 📁 Repository Structure
+
+DCS-OMM-Mods-and-Liveries/
+├── Liveries/
+│ ├── FA-18C_hornet/
+│ │ └── VFA-192_BlackMajic/
+│ └── F-14B/
+│ └── VFA-192_Tomcat/
+├── Mods/
+│ ├── Sounds/
+│ ├── Scripts/
+│ └── Objects/
+└── README.md
+
+
+---
+
+## 📦 How to Use with OMM / OvGME
+
+1. Clone or download this repository.
+2. Point your OMM mod folder to the root of this repository.
+3. Enable/disable mods and liveries as needed through OMM.
+4. Keep liveries in the correct path:
+
+Saved Games\DCS.openbeta\Liveries<Aircraft_Type><Livery_Name>
+
+
+---
+
+## ✅ Recommended Mods
+
+- [DCS SRS (Simple Radio)](https://github.com/ciribob/DCS-SimpleRadioStandalone)
+- [DCS Kneeboard Builder](https://github.com/ronz84/DCS-Kneeboard-Builder)
+- [DCS Utility Scripts (MOOSE, MIST, etc.)](https://github.com/FlightControl-Master/MOOSE)
+
+---
+
+## 🛠️ Contributing
+
+We welcome community submissions! To contribute:
+
+1. Fork this repo
+2. Add your mod or livery under the correct folder
+3. Submit a pull request with details
+
+---
+
+## 📸 Screenshots & Previews
+
+> _Coming Soon — Add your screenshots to help users preview liveries and mod features._
+
+---
+
+## 📍 Maintainer
+
+Created and maintained by **[Your Name or Squadron Name]**  
+Twitch: [BlackMajic](https://twitch.tv/BlackMajic)  
+Contact: [your_email@example.com]
+
+---
+
+## 📜 License
+
+All liveries and mods are owned by their respective creators. Please ensure credit is given. This repo is for educational and community purposes only.
