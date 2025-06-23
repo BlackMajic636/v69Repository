@@ -27,6 +27,18 @@ Welcome to the **V69Repository** — a centralized hub for **DCS World** enthusi
 
 ---
 
+## 📦 How to Use with OMM / OvGME
+
+1. Clone or download this repository.
+2. Point your OMM mod folder to the root of this repository.
+3. Enable/disable mods and liveries as needed through OMM.
+4. Keep liveries in the correct path:
+
+Saved Games\DCS.openbeta\Liveries<Aircraft_Type><Livery_Name>
+
+
+---
+
 ## 📦 Installation Instructions
 
 ### 1. **Liveries**
