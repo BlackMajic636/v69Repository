@@ -1,9 +1,9 @@
 <repository version="1.0" name="V69Repository">
   <mod>
-    <name>V69FlyboysHighVizBort (CO-CAG)</name>
+    <name>V69FlyboysHighVizBort(CO-CAG)</name>
     <version>1.0</version>
     <category>Liveries</category>
-    <url>https://github.com/BlackMajic636/v69Repository/raw/Liveries/V69FlyboysHighVizBort(CO-CAG).zip</url>
+    <url>https://raw.githubusercontent.com/BlackMajic636/v69Repository/fa-18c_hornet/Liveries/V69FlyboysHighVizBort(CO-CAG).zip</url>
     <description>High-Viz V69 Flyboys CO/CAG livery for DCS F/A-18C Hornet.</description>
   </mod>
 </repository>
